@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dipa.sylhettourismsquare.MapActivity">
+
+    <item
+        android:id="@+id/action_normal"
+        android:orderInCategory="100"
+        android:title="Normal"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_sat"
+        android:orderInCategory="100"
+        android:title="Satellite"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_hybrid"
+        android:orderInCategory="100"
+        android:title="Hybrid"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_terrain"
+        android:orderInCategory="100"
+        android:title="Terrain"
+        app:showAsAction="never"/>
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sylhet Tourism Square</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splashscreen">@string/app_name</string>
+    <string name="title_activity_locations">Locations</string>
+    <string name="title_activity_packages">Packages</string>
+    <string name="title_activity_hotels">Hotels</string>
+    <string name="title_activity_transport">Transport</string>
+    <string name="title_activity_first_aid">FirstAid</string>
+    <string name="title_activity_shops">Shops</string>
+    <string name="title_activity_restuarents">Restuarents</string>
+    <string name="title_activity_single_location">SingleLocation</string>
+    <string name="en">En</string>
+    <string name="bn">Bn</string>
+    <string name="MapActivity">Map</string>
+    <string name="title_activity_single_resturent">SingleResturent</string>
+    <string name="title_activity_single_hotel">SingleHotel</string>
+
+
+</resources>

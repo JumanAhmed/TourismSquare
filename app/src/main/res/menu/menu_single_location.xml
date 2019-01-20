@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dipa.sylhettourismsquare.SingleLocation">
+    <item
+        android:id="@+id/action_english"
+        android:orderInCategory="100"
+        android:title="@string/en"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_bengali"
+        android:orderInCategory="99"
+        android:title="@string/bn"
+        app:showAsAction="ifRoom" />
+
+</menu>
